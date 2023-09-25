@@ -3,7 +3,7 @@ import sqlite3
 from deriv_api import DerivAPI
 from datetime import datetime
 
-app_id = 37430
+app_id = 1089
 
 # Create a connection to the SQLite database
 conn = sqlite3.connect('tick_data.db')
